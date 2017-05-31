@@ -21,4 +21,6 @@ public class Festa {
 	
 	@Column(name = "nome", nullable = false, length = 200)
 	private String nome;
+	
+	//teste
 }

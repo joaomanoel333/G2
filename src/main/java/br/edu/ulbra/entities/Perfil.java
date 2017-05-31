@@ -1,4 +1,5 @@
 package br.edu.ulbra.entities;
+
 import javax.persistence.*;
 
 @Entity
